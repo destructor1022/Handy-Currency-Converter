@@ -39,9 +39,6 @@ public class MainActivity extends WearableActivity {
     String gamma;
     Currency traits;
 
-    String url1;
-    String url2;
-
     TextView conv1_curr2;
     TextView conv2_curr1;
 
@@ -148,9 +145,6 @@ public class MainActivity extends WearableActivity {
                     }
                 });
 
-
-
-
             }
         });
     }
@@ -178,28 +172,6 @@ public class MainActivity extends WearableActivity {
         startActivity(intent);
     }
 
-    @SuppressLint("SetTextI18n")
-    public void set_conv2_text() {
-        final TextView conv2_curr1 = (TextView) findViewById(R.id.conv2_curr1);
-        conv2_curr1.setText("loading...");
-
-        String url_p1 = "https://www.x-rates.com/calculator/?from=";
-        String url_p2 = "&to=";
-        String url_p3 = "&amount=1";
-
-        try {
-            Ion.with(getApplicationContext()).load(url_p1 + traits.names.get(traits.current.get(1)) + url_p2 + traits.names.get(traits.current.get(0)) + url_p3).asString().setCallback(new FutureCallback<String>() {
-                @Override
-                public void onCompleted(Exception e, String result) {
-                    String getit = result.split("ccOutputRslt")[1];
-                    conv2_curr1.setText(getit.substring(2, 7));
-                }
-            });
-        } catch (Exception o) {
-            conv2_curr1.setText("can't load");
-        }
-    }
-
     public void set_flags() {
         final ImageView flag1 = (ImageView) findViewById(R.id.flag1);
         final ImageView flag2 = (ImageView) findViewById(R.id.flag2);
@@ -213,10 +185,8 @@ public class MainActivity extends WearableActivity {
         currency1.setText(traits.getName(0));
         currency2.setText(traits.getName(1));
 
-
-
         new setConv1().execute();
-        //set_conv2_text();
+        new setConv2().execute();
 
         set_widths_textviews();
     }
@@ -277,6 +247,48 @@ public class MainActivity extends WearableActivity {
         protected void onPostExecute(Void aVoid) {
             super.onPostExecute(aVoid);
             conv1_curr2.setText(usefulInfo.substring(2, 7));
+        }
+    }
+
+    @SuppressLint("StaticFieldLeak")
+    private class setConv2 extends AsyncTask<Void, Void, Void> {
+        String url_p1 = "https://www.x-rates.com/calculator/?from=";
+        String url_p2 = "&to=";
+        String url_p3 = "&amount=1";
+
+        String url;
+
+        String usefulInfo;
+
+        @SuppressLint("SetTextI18n")
+        @Override
+        protected void onPreExecute() {
+            super.onPreExecute();
+            conv2_curr1.setText("loading...");
+            url = url_p1 + traits.getName(1) + url_p2 + traits.getName(0) + url_p3;
+        }
+
+        @Override
+        protected Void doInBackground(Void... voids) {
+            try {
+                //Connect to the website
+                Document document = Jsoup.connect(url).get();
+
+                //Get the html of the website
+                String html = document.toString();
+                usefulInfo = html.split("ccOutputRslt")[1];
+
+
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            return null;
+        }
+
+        @Override
+        protected void onPostExecute(Void aVoid) {
+            super.onPostExecute(aVoid);
+            conv2_curr1.setText(usefulInfo.substring(2, 7));
         }
     }
 }

@@ -15,5 +15,5 @@ com/toughproject/handycurrencyconverter/MainActivity.java
  com.toughproject.handycurrencyconverter.MainActivity$1$4
  com.toughproject.handycurrencyconverter.MainActivity$1$5
  com.toughproject.handycurrencyconverter.MainActivity$2
- com.toughproject.handycurrencyconverter.MainActivity$3
  com.toughproject.handycurrencyconverter.MainActivity$setConv1
+ com.toughproject.handycurrencyconverter.MainActivity$setConv2
