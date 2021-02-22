@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.koushikdutta.async:androidasync:3.0.9@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/67104576e94a5bbf82ccd897ca68e1e3/jetified-androidasync-3.0.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ea411e26f4e6510940d04b3e18972b30/jetified-androidasync-3.0.9/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ea411e26f4e6510940d04b3e18972b30/jetified-androidasync-3.0.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ea411e26f4e6510940d04b3e18972b30/jetified-androidasync-3.0.9/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.koushikdutta.async/androidasync/3.0.9/c1649d4b1e6b1151c1b82398b7e68b69b2d2c2ff/androidasync-3.0.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.koushikdutta.async/androidasync/3.0.9/49b42452482b0c67b56d553cd36ddf2d65d6e15/androidasync-3.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

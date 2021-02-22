@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.google.android.support:wearable:2.7.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e5ab15fe0e52abf013986229d8b636ba\jetified-wearable-2.7.0\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\551d73a9109700293d1dfc8fa5752d23\jetified-play-services-wearable-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\9dc16802ec2123b8db1b1eaac00ca00f\percentlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.koushikdutta.ion:ion:3.0.9] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\93bc68b22606d01df022c9e1b57d57c9\jetified-ion-3.0.9\AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\0ee984f342fe24a7bbccc6da4da94c1b\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.wear:wear:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\3ac86862e573dadb899e52f884216fd3\wear-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\16f03aec782cd43772f8a9d2e1ba3aac\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0-alpha04] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\cec199a9cec700f5d13c50d59eaf6e40\jetified-core-ktx-1.5.0-alpha04\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\902c5acd001a5a36e866913e83fbd414\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e0646b31a000ee1fec5c4fb85074587a\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\c3141a7e14977022c6c0e93703072ba1\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\20df5a98efd5542d84bc9bac1c6ac129\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\5faf865afaebee6c2eebdb7cb46cc505\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\0ee60a6c2ac8950baf2e0b9ce4b8d67d\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\f7973ce3b73f99ec74f1d7ed7e10180b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\d89f5ebf8b568de855e5c904c0dd1a36\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\8e92a8aaeab7db5bb97dbd7f8a51fbad\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\02970b4ed63a7e4c8fac246850101806\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\1e3e96ebaa985334a73349093aea93f2\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\9e0bc914ab68d073ea7fa6d73f6db120\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\3ec108f2860a9f60bc7864ce9886cfe9\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\63e17cc53370c323e5be0c98dbdb5021\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\4f3e183eee4fcfd5d37a49898deae2d7\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0-alpha04] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\91f9065655c8153052ccb37400ca6909\core-1.5.0-alpha04\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\02798deba80efca9ba86f44198fca25b\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\b1af9835be7d5beb6703469aa1bb9bc7\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\3dce17d3c19f05fd4dbd8599c51b18b2\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\5822145550e6214f31e81a48418b8d52\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\34d48c4308e9a53c56122ca2ce28a1f9\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\5ce33a2b59e728956b1c5e11f2fa2a8c\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\7c2327981f14ce8e7543b36fcf94d2fa\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\962f27c8c5cb01d843705a9fa65a2de5\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\3b0b05070bc9286d52a6b3c810b8c821\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\aab15b69fca1ffde3f55c4793eabe4f8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\7d01e9386d69a672da8ac3ffe9c7d5f1\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e5af7895b10f732f8ed717f32210e0cc\constraintlayout-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.koushikdutta.async:androidasync:3.0.9] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\67104576e94a5bbf82ccd897ca68e1e3\jetified-androidasync-3.0.9\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:5:22-65
+uses-feature#android.hardware.type.watch
+ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:7:5-64
+	android:name
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:7:19-61
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.koushikdutta.ion:ion:3.0.9] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\93bc68b22606d01df022c9e1b57d57c9\jetified-ion-3.0.9\AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.ion:ion:3.0.9] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\93bc68b22606d01df022c9e1b57d57c9\jetified-ion-3.0.9\AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:3.0.9] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\67104576e94a5bbf82ccd897ca68e1e3\jetified-androidasync-3.0.9\AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:3.0.9] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\67104576e94a5bbf82ccd897ca68e1e3\jetified-androidasync-3.0.9\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:12:5-42:19
+MERGED from [com.google.android.support:wearable:2.7.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e5ab15fe0e52abf013986229d8b636ba\jetified-wearable-2.7.0\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.7.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e5ab15fe0e52abf013986229d8b636ba\jetified-wearable-2.7.0\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\551d73a9109700293d1dfc8fa5752d23\jetified-play-services-wearable-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\551d73a9109700293d1dfc8fa5752d23\jetified-play-services-wearable-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.koushikdutta.ion:ion:3.0.9] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\93bc68b22606d01df022c9e1b57d57c9\jetified-ion-3.0.9\AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.ion:ion:3.0.9] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\93bc68b22606d01df022c9e1b57d57c9\jetified-ion-3.0.9\AndroidManifest.xml:13:5-14:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e0646b31a000ee1fec5c4fb85074587a\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e0646b31a000ee1fec5c4fb85074587a\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\c3141a7e14977022c6c0e93703072ba1\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\c3141a7e14977022c6c0e93703072ba1\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\20df5a98efd5542d84bc9bac1c6ac129\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\20df5a98efd5542d84bc9bac1c6ac129\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0-alpha04] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\91f9065655c8153052ccb37400ca6909\core-1.5.0-alpha04\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0-alpha04] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\91f9065655c8153052ccb37400ca6909\core-1.5.0-alpha04\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\02798deba80efca9ba86f44198fca25b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\02798deba80efca9ba86f44198fca25b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e5af7895b10f732f8ed717f32210e0cc\constraintlayout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e5af7895b10f732f8ed717f32210e0cc\constraintlayout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.koushikdutta.async:androidasync:3.0.9] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\67104576e94a5bbf82ccd897ca68e1e3\jetified-androidasync-3.0.9\AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.async:androidasync:3.0.9] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\67104576e94a5bbf82ccd897ca68e1e3\jetified-androidasync-3.0.9\AndroidManifest.xml:13:5-14:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0-alpha04] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\91f9065655c8153052ccb37400ca6909\core-1.5.0-alpha04\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:17:9-59
+uses-library#com.google.android.wearable
+ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:18:9-20:39
+MERGED from [com.google.android.support:wearable:2.7.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e5ab15fe0e52abf013986229d8b636ba\jetified-wearable-2.7.0\AndroidManifest.xml:10:9-12:40
+MERGED from [com.google.android.support:wearable:2.7.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e5ab15fe0e52abf013986229d8b636ba\jetified-wearable-2.7.0\AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:19:13-55
+meta-data#com.google.android.wearable.standalone
+ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:26:9-28:36
+	android:value
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:28:13-33
+	android:name
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:27:13-66
+activity#com.toughproject.handycurrencyconverter.Settings
+ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:30:9-32:72
+	android:label
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:32:13-60
+	android:name
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:31:13-37
+activity#com.toughproject.handycurrencyconverter.MainActivity
+ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:34:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.support:wearable:2.7.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e5ab15fe0e52abf013986229d8b636ba\jetified-wearable-2.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.7.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e5ab15fe0e52abf013986229d8b636ba\jetified-wearable-2.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\551d73a9109700293d1dfc8fa5752d23\jetified-play-services-wearable-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\551d73a9109700293d1dfc8fa5752d23\jetified-play-services-wearable-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\9dc16802ec2123b8db1b1eaac00ca00f\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\9dc16802ec2123b8db1b1eaac00ca00f\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.koushikdutta.ion:ion:3.0.9] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\93bc68b22606d01df022c9e1b57d57c9\jetified-ion-3.0.9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.ion:ion:3.0.9] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\93bc68b22606d01df022c9e1b57d57c9\jetified-ion-3.0.9\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\0ee984f342fe24a7bbccc6da4da94c1b\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\0ee984f342fe24a7bbccc6da4da94c1b\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear:wear:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\3ac86862e573dadb899e52f884216fd3\wear-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear:wear:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\3ac86862e573dadb899e52f884216fd3\wear-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\16f03aec782cd43772f8a9d2e1ba3aac\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\16f03aec782cd43772f8a9d2e1ba3aac\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0-alpha04] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\cec199a9cec700f5d13c50d59eaf6e40\jetified-core-ktx-1.5.0-alpha04\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0-alpha04] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\cec199a9cec700f5d13c50d59eaf6e40\jetified-core-ktx-1.5.0-alpha04\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\902c5acd001a5a36e866913e83fbd414\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\902c5acd001a5a36e866913e83fbd414\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e0646b31a000ee1fec5c4fb85074587a\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e0646b31a000ee1fec5c4fb85074587a\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\c3141a7e14977022c6c0e93703072ba1\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\c3141a7e14977022c6c0e93703072ba1\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\20df5a98efd5542d84bc9bac1c6ac129\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\20df5a98efd5542d84bc9bac1c6ac129\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\5faf865afaebee6c2eebdb7cb46cc505\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\5faf865afaebee6c2eebdb7cb46cc505\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\0ee60a6c2ac8950baf2e0b9ce4b8d67d\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\0ee60a6c2ac8950baf2e0b9ce4b8d67d\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\f7973ce3b73f99ec74f1d7ed7e10180b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\f7973ce3b73f99ec74f1d7ed7e10180b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\d89f5ebf8b568de855e5c904c0dd1a36\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\d89f5ebf8b568de855e5c904c0dd1a36\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\8e92a8aaeab7db5bb97dbd7f8a51fbad\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\8e92a8aaeab7db5bb97dbd7f8a51fbad\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\02970b4ed63a7e4c8fac246850101806\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\02970b4ed63a7e4c8fac246850101806\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\1e3e96ebaa985334a73349093aea93f2\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\1e3e96ebaa985334a73349093aea93f2\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\9e0bc914ab68d073ea7fa6d73f6db120\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\9e0bc914ab68d073ea7fa6d73f6db120\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\3ec108f2860a9f60bc7864ce9886cfe9\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\3ec108f2860a9f60bc7864ce9886cfe9\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\63e17cc53370c323e5be0c98dbdb5021\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\63e17cc53370c323e5be0c98dbdb5021\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\4f3e183eee4fcfd5d37a49898deae2d7\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\4f3e183eee4fcfd5d37a49898deae2d7\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0-alpha04] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\91f9065655c8153052ccb37400ca6909\core-1.5.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-alpha04] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\91f9065655c8153052ccb37400ca6909\core-1.5.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\02798deba80efca9ba86f44198fca25b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\02798deba80efca9ba86f44198fca25b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\b1af9835be7d5beb6703469aa1bb9bc7\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\b1af9835be7d5beb6703469aa1bb9bc7\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\3dce17d3c19f05fd4dbd8599c51b18b2\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\3dce17d3c19f05fd4dbd8599c51b18b2\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\5822145550e6214f31e81a48418b8d52\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\5822145550e6214f31e81a48418b8d52\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\34d48c4308e9a53c56122ca2ce28a1f9\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\34d48c4308e9a53c56122ca2ce28a1f9\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\5ce33a2b59e728956b1c5e11f2fa2a8c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\5ce33a2b59e728956b1c5e11f2fa2a8c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\7c2327981f14ce8e7543b36fcf94d2fa\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\7c2327981f14ce8e7543b36fcf94d2fa\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\962f27c8c5cb01d843705a9fa65a2de5\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\962f27c8c5cb01d843705a9fa65a2de5\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\3b0b05070bc9286d52a6b3c810b8c821\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\3b0b05070bc9286d52a6b3c810b8c821\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\aab15b69fca1ffde3f55c4793eabe4f8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\aab15b69fca1ffde3f55c4793eabe4f8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\7d01e9386d69a672da8ac3ffe9c7d5f1\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\7d01e9386d69a672da8ac3ffe9c7d5f1\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e5af7895b10f732f8ed717f32210e0cc\constraintlayout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e5af7895b10f732f8ed717f32210e0cc\constraintlayout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.koushikdutta.async:androidasync:3.0.9] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\67104576e94a5bbf82ccd897ca68e1e3\jetified-androidasync-3.0.9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.async:androidasync:3.0.9] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\67104576e94a5bbf82ccd897ca68e1e3\jetified-androidasync-3.0.9\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sauna\Documents\Documents\Programming\Android\Handy-Currency-Converter\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e0646b31a000ee1fec5c4fb85074587a\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e0646b31a000ee1fec5c4fb85074587a\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e0646b31a000ee1fec5c4fb85074587a\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\e0646b31a000ee1fec5c4fb85074587a\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\20df5a98efd5542d84bc9bac1c6ac129\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\20df5a98efd5542d84bc9bac1c6ac129\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\sauna\.gradle\caches\transforms-2\files-2.1\20df5a98efd5542d84bc9bac1c6ac129\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

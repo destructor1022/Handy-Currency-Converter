@@ -1,0 +1,19 @@
+com/toughproject/handycurrencyconverter/BuildConfig.java
+ com.toughproject.handycurrencyconverter.BuildConfig
+com/toughproject/handycurrencyconverter/Settings.java
+ com.toughproject.handycurrencyconverter.Settings
+ com.toughproject.handycurrencyconverter.Settings$1
+ com.toughproject.handycurrencyconverter.Settings$1$1
+com/toughproject/handycurrencyconverter/Currency.java
+ com.toughproject.handycurrencyconverter.Currency
+com/toughproject/handycurrencyconverter/MainActivity.java
+ com.toughproject.handycurrencyconverter.MainActivity
+ com.toughproject.handycurrencyconverter.MainActivity$1
+ com.toughproject.handycurrencyconverter.MainActivity$1$1
+ com.toughproject.handycurrencyconverter.MainActivity$1$2
+ com.toughproject.handycurrencyconverter.MainActivity$1$3
+ com.toughproject.handycurrencyconverter.MainActivity$1$4
+ com.toughproject.handycurrencyconverter.MainActivity$1$5
+ com.toughproject.handycurrencyconverter.MainActivity$2
+ com.toughproject.handycurrencyconverter.MainActivity$3
+ com.toughproject.handycurrencyconverter.MainActivity$Content

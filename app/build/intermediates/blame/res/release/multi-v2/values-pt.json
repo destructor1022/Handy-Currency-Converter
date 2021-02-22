@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\sauna\\Documents\\Documents\\Programming\\Android\\Handy-Currency-Converter\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pt\\values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sauna\\.gradle\\caches\\transforms-2\\files-2.1\\3ac86862e573dadb899e52f884216fd3\\wear-1.0.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,166",
+                        "endColumns": "110,118",
+                        "endOffsets": "161,280"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "156,267",
+                        "endColumns": "110,118",
+                        "endOffsets": "262,381"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sauna\\.gradle\\caches\\transforms-2\\files-2.1\\91f9065655c8153052ccb37400ca6909\\core-1.5.0-alpha04\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
